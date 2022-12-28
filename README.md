@@ -25,11 +25,11 @@
 <p>✍️&nbsp;&nbsp;大家好，这里是想养猫的CXY! 目前就读于长春理工大学计算机科学与技术专业，热爱计算机和IT互联网事业，励志成为一名资深程序员!</p>
 <p>&emsp;&emsp;学习的尽头是挣钱养家，宇宙的尽头是考研考编。</p>
 
-<!-- 比较好的开源项目卡片 -->
+<!-- 比较好的开源项目卡片 
 <div align="center">
 <a href="https://github.com/Zhaozongwen/Array-learning-CPP">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhaozongwen&repo=Array-learning-CPP&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-</div>
+</div>-->
 
 💪 正在学习: 
 
