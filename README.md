@@ -22,7 +22,7 @@
 
 #  🙋 Hello
 
-<p>✍️&nbsp;&nbsp;大家好，这里是想养猫的CXY! 目前就读于长春理工大学计算机科学与技术专业，热爱计算机和IT互联网事业，励志成为一名资深程序员!</p>
+<p>✍️&nbsp;&nbsp;大家好，这里是想养猫的CXY! 目前就读于长春理工大学计算机科学与技术专业，励志成为一名优秀的程序员!</p>
 <p>&emsp;&emsp;学习的尽头是挣钱养家，宇宙的尽头是考研考编。</p>
 
 <!-- 比较好的开源项目卡片 
@@ -73,6 +73,8 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhaozongwen&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <br>
+
+
 
 <!--
 **Zhaozongwen/Zhaozongwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
