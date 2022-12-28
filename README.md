@@ -1,4 +1,4 @@
-# Hi 🎉 Welcome to 想养猫的CXY's Github Homepage!
+# Welcome to 想养猫的CXY's Github Homepage!
 
 <!-- 动态打字效果 -->
 <h1 align="center">
@@ -22,11 +22,10 @@
 
 #  🙋 Hello
 
-<p>✍️&nbsp;&nbsp;大家好，我是小赵同学! 目前就读于长春理工大学计算机科学与技术专业，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
+<p>✍️&nbsp;&nbsp;大家好，我是小赵同学! 目前就读于长春理工大学计算机科学与技术专业，热爱计算机和IT互联网事业，励志成为一名资深程序员!</p>
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;学习的尽头是挣钱养家，宇宙的尽头是考研考编。</p>
-
 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
@@ -62,19 +61,23 @@
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
+<!-- Gif -->
+<div align="center">
+  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
+  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
+  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
+</div>
 
+<!-- just img -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
-
-
-
-
-
-
-
-
-
-
-
+# 🚀 Actions
+<!-- GitHub数据统计 -->
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Zhaozongwen&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhaozongwen&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
+<br>
 
 
 
