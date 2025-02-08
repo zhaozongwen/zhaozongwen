@@ -8,15 +8,15 @@
 💪 正在学习: 
 
 &emsp;&emsp;
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 
 🧠 计划学习:
 
 &emsp;&emsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
